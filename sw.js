@@ -13,8 +13,8 @@ const APP_SHELL = [
     '/img/avatars/kyle.jpg',
     '/img/avatars/Randy.jpg',
     '/img/avatars/stan.jpg',
-    '/js/app.js',
-    '/js/aux-sw.js'
+    '/js/app.js'
+    
 ];
 
 const APP_SHELL_INMUTABLE = [
