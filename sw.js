@@ -13,7 +13,7 @@ const APP_SHELL = [
     '/img/avatars/Kyle.jpg',
     '/img/avatars/Randy.jpg',
     '/img/avatars/stan.jpg',
-    '/js/app.js'
+    '/js/app.js',
     '/js/aux-sw.js'
 ];
 
