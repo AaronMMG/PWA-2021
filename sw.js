@@ -5,21 +5,21 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 
 const APP_SHELL = [
     //'/',
-    '/index.html',
-    '/css/style.css',
-    '/img/favicon.ico',
-    '/img/avatars/eric.jpg',
-    '/img/avatars/Kenny.jpg',
-    '/img/avatars/kyle.jpg',
-    '/img/avatars/Randy.jpg',
-    '/img/avatars/stan.jpg',
-    '/js/app.js'
+    'index.html',
+    'css/style.css',
+    'img/favicon.ico',
+    'img/avatars/eric.jpg',
+    'img/avatars/Kenny.jpg',
+    'img/avatars/kyle.jpg',
+    'img/avatars/Randy.jpg',
+    'img/avatars/stan.jpg',
+    'js/app.js'
     
 ];
 
 const APP_SHELL_INMUTABLE = [
-    '/css/animate.css',
-    '/js/libs/jquery.js',
+    'css/animate.css',
+    'js/libs/jquery.js',
     'https://fonts.googleapis.com/css?family=Quicksand:300,400',
     'https://fonts.googleapis.com/css?family=Lato:400,300',
     // 'https://use.fontawesome.com/releases/v5.3.1/css/all.css'
